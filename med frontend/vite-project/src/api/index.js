@@ -1,0 +1,10 @@
+// Export all API services for convenient importing
+export { default as authService } from './services/authService';
+export { default as patientService } from './services/patientService';
+export { default as doctorService } from './services/doctorService';
+export { default as adminService } from './services/adminService';
+export { default as aiService } from './services/aiService';
+export { default as healthService } from './services/healthService';
+export { default as mapsService } from './services/mapsService';
+export { default as ecosystemService } from './services/ecosystemService';
+export { default as api } from './axios';
