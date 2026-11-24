@@ -551,7 +551,11 @@ body {
   transform: scale(1.05);
 }
 
-.fw-black { font-weight: 900; }
+.fw-black {
+  font-weight: 900;
+}
+
+.your-circle-class {
   position: absolute;
   bottom: -30%;
   left: -5%;
